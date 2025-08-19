@@ -1,15 +1,74 @@
-[{
-	"key": "sb",
-	"value": "1QFsaAd1wM9G4FGhQFwQbajz",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2025-07-10T16:40:10.604Z",
-	"lastAccessed": "2025-07-10T16:40:10.604Z"
+[
+	{
+		"key": "datr",
+		"value": "ZW-haOrIqbVmI8TSOic-Cmup",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.593Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
 	},
 	{
-	"key": "m_pixel_ratio",
-	"value": "1.7000000476837158",
-	"path": "/",
-	"hostOnly": false,
-	"domain": 
+		"key": "vpd",
+		"value": "v1%3B666x360x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	},
+	{
+		"key": "pas",
+		"value": "61573047405555%3A2zl7RuGoWX",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	},
+	{
+		"key": "fr",
+		"value": "0iYrsrW86igQAhWzT.AWfowedMx0li7VLI_8EzVWyzZGfcqGOxrNVv6Hj2cJpSkOal4Z0.BooW9l..AAA.0.0.Boo_jE.AWc6Zp1EqNb5mqIF6ACXYejCnbw",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2897%3Btimestamp%3A1755576517",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101026701%3BT%3A29259608",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-19T05:56:46.597Z",
+		"lastAccessed": "2025-08-19T05:56:46.597Z"
+	}
+]
